@@ -1,74 +1,68 @@
 [
   {
-    "objectID": "learning-more.html",
-    "href": "learning-more.html",
-    "title": "Learning more",
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
     "section": "",
-    "text": "There is no more to learn :)",
+    "text": "This is the homepage for STA 101 - Data Analysis and Statistical Inference taught by Dr. Mine Çetinkaya-Rundel in Fall 2023 at Duke University. All course materials will be posted on this site.\nYou can find the course syllabus here and the course schedule here.",
     "crumbs": [
-      "Learning more"
+      "Course Information",
+      "Overview"
     ]
   },
   {
-    "objectID": "learning-more.html#learn-more",
-    "href": "learning-more.html#learn-more",
-    "title": "Learning more",
-    "section": "",
-    "text": "There is no more to learn :)",
+    "objectID": "course-overview.html#class-meetings",
+    "href": "course-overview.html#class-meetings",
+    "title": "Course overview",
+    "section": "Class meetings",
+    "text": "Class meetings\n\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\nInstructor / Lab leader\n\n\n\n\nLectures\nGross Hall 103\nMon & Wed 1:25 - 2:40 pm\nMine\n\n\nLab 1\nPerkins LINK 087 (Classroom 3)\nFri 8:30 - 9:45 am\nShuo\n\n\nLab 2\nPerkins LINK 087 (Classroom 3)\nFri 10:05 - 11:20 am\nSylvia\n\n\nLab 3\nPerkins LINK 087 (Classroom 3)\nFri 11:45 am - 1:00 pm\nJohn\n\n\nLab 4\nPerkins LINK 087 (Classroom 3)\nFri 1:25 - 2:40 pm\nChris",
     "crumbs": [
-      "Learning more"
+      "Course Information",
+      "Overview"
     ]
   },
   {
-    "objectID": "subsection-files/index.html",
-    "href": "subsection-files/index.html",
-    "title": "Main Section Landing",
-    "section": "",
-    "text": "Here is a landing page if you plan to have multiple subsections within! Cool huh?!",
+    "objectID": "course-overview.html#license",
+    "href": "course-overview.html#license",
+    "title": "Course overview",
+    "section": "License",
+    "text": "License\n\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
     "crumbs": [
-      "Main Section Landing"
+      "Course Information",
+      "Overview"
     ]
   },
   {
-    "objectID": "subsection-files/index.html#section",
-    "href": "subsection-files/index.html#section",
-    "title": "Main Section Landing",
+    "objectID": "assignment/assignment-1.html",
+    "href": "assignment/assignment-1.html",
+    "title": "Assignment 1",
     "section": "",
-    "text": "Here is a landing page if you plan to have multiple subsections within! Cool huh?!",
+    "text": "Assignments are posted in myCourses\nThe deliverable for this project (what you will turn in) is a written report. See below for more details.\n\nDescription\nFor this project you will create a linear model (of your choosing) to predict newborn birth weights (or some transformation of the variable) using a sample of observations from 2020 US birth data originally sourced from the Centers for Disease Control (CDC).\n\n\n\n\n\n\nImportant\n\n\n\nAll team members should be comfortable describing all aspects of the project and understanding all code.",
     "crumbs": [
-      "Main Section Landing"
+      "Assignments",
+      "Assignment 1"
     ]
   },
   {
-    "objectID": "subsection-files/sub_2.html",
-    "href": "subsection-files/sub_2.html",
-    "title": "From Subsection 2",
-    "section": "",
-    "text": "And here is another subsection that you can include and update!",
-    "crumbs": [
-      "Main Section Landing",
-      "From Subsection 2"
-    ]
-  },
-  {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
+    "objectID": "course-syllabus.html",
+    "href": "course-syllabus.html",
     "title": "Syllabus",
     "section": "",
     "text": "Intro to Psychology (Online, 6-Week Asynchronous)\n\nCourse Overview\nThis accelerated 6-week asynchronous course provides an introduction to the science of psychology, covering major theories, methods, and applications across biological, cognitive, emotional, developmental, and social domains. Emphasis is on active learning, self-reflection, and real-world application.\n\n\nCourse Objectives\nBy the end of this course, students will be able to:\n\nIdentify key concepts and theories across major areas of psychology\nApply psychological principles to everyday behavior and mental processes\nCritically evaluate psychological research and media\nReflect on their own development, thoughts, and emotions\n\n\n\n\nRequired Materials\n\nOpenStax Psychology (free online textbook)\nSupplemental videos, podcasts, and articles (linked in LMS)\n\n\n\n\nWeekly Schedule & Topics\nWeek 1: Foundations Topics: Introduction to Psychology, Research Methods, Biopsychology Assignments:\n\nSyllabus & Academic Integrity Quiz (Auto-graded)\nFlipgrid Intro Video (2-minute intro)\nQuiz 1: Brain & Methods (Auto-graded)\n\nWeek 2: Experience & Awareness Topics: States of Consciousness, Sensation & Perception Assignments:\n\nSleep Journal (3 days + reflection)\nQuiz 2: Sensation & Sleep (Auto-graded)\n\nWeek 3: Learning & Memory Topics: Classical & Operant Conditioning, Memory Systems Assignments:\n\nMini-Experiment Reflection (e.g., shape your behavior with reinforcement)\nMemory Infographic or Concept Map\nQuiz 3: Learning & Memory\n\nWeek 4: Cognition & Development Topics: Thinking, Language & Intelligence, Emotion & Motivation, Development Assignments:\n\nDevelopment in the Media: Short reflection paper (e.g., analyze a movie or show)\nQuiz 4: Cognitive & Developmental Psychology\n\nWeek 5: Personality & Social Behavior Topics: Personality Theories, Social Influence, Group Behavior Assignments:\n\nPersonality Test Reflection (Myers-Briggs, Big Five – with disclaimers)\nDiscussion Post: Conformity or Obedience (respond to a prompt + 1 peer reply)\nQuiz 5: Personality & Social Psych\n\nWeek 6: Psychological Health Topics: Psychological Disorders, Therapy & Treatment Assignments:\n\nCase Study: Choose a disorder, design a brief treatment plan (1 page)\nFinal Project Due: Create a PSA, podcast, short paper, or infographic on a psych topic\nQuiz 6: Disorders & Therapy\n\n\n\n\nGrading Breakdown\n\n\n\n\n\n\n\n\nAssignment Type\nPoints\n% of Grade\n\n\n\n\nWeekly Quizzes (6)\n60\n30%\n\n\nWeekly Activities (Journals, Maps, Reflections)\n60\n30%\n\n\nDiscussions (2)\n20\n10%\n\n\nFinal Project\n40\n20%\n\n\nIntro Video & Syllabus Quiz\n20\n10%\n\n\nTotal\n200\n100%\n\n\n\n\n\n\nCourse Policies\n\nLate Work: 3-day grace period with no penalty. Beyond that, contact me.\nAcademic Integrity: Follow RIT’s policies. Plagiarism = zero credit.\nCommunication: Weekly announcements posted; email replies within 48 hours.\n\n\n\n\nFinal Project Options (Choose One)\n\nPodcast Episode (5–7 minutes): Explain a psychological concept with examples.\nInfographic: Visually explain a major topic (e.g., stages of sleep, types of memory).\nShort Paper (2–3 pages): Analyze a psychological issue or concept.\nPublic Service Announcement: Educate others on a disorder or mental health topic.\n\nRubrics provided in LMS.\n\nLet’s make psychology meaningful, creative, and relevant to your life.",
     "crumbs": [
+      "Course Information",
       "Syllabus"
     ]
   },
   {
-    "objectID": "subsection-files/sub_1.html",
-    "href": "subsection-files/sub_1.html",
-    "title": "From Subsection 1",
+    "objectID": "course-links.html",
+    "href": "course-links.html",
+    "title": "Useful links",
     "section": "",
-    "text": "The first page of the subsection. You can do so much here!",
+    "text": "Posit Cloud\n🔗 Posit Cloud\n\n\nLecture recordings\n🔗 Panopto\n\n\nSlack\n🔗 Slack\n\n\nGradebook\n🔗 on Canvas\n\n\nAnnouncements\n🔗 on Canvas\n\n\nTutorial submission\n🔗 on Canvas\n\n\nTextbooks\n🔗 Introduction to Modern Statistics, 2nd Edition\n🔗 R for Data Science, 2nd Edition\n\n\nPackage documentation\n🔗 tidyverse: tidyverse.org\n🔗 tidymodels: tidymodels.org",
     "crumbs": [
-      "Main Section Landing",
-      "From Subsection 1"
+      "Course Information",
+      "Useful links"
     ]
   },
   {
@@ -78,7 +72,8 @@
     "section": "",
     "text": "This page contains an outline of the topics, content, and assignments for the semester.\nNote that this schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nPrepare\nSlides\nAE\nLabs\nHW\nExam\nProject\n\n\n\n\n\nMon, June 30\n\n📖\n🖥️\n📋\n💻\n✍️\n✅\n📂\n\n\n\nMon, July 7\n\n\n\n\n\n\n\n\n\n\n\nMon, July 14\n\n\n\n\n\n\n\n\n\n\n\nMon, July 21\n\n\n\n\n\n\n\n\n\n\n\nMon, July 28\n\n\n\n\n\n\n\n\n\n\n\nMon, Aug 4\n\n\n\n\n\n\n\n\n\n\n\nWed, Aug 6\nLAST DAY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTopics that need to be included: 1. Introduction & Psychology as a Science 2. Biopsychology 3. States of Consciousness 4. Sensation & Perception 5. Learning 6. Memory 7. Thinking, Language & Intelligence 8. Emotion & Motivation 9. Development 10. Personality 11. Social Psychology 12. Psychological Disorders 13. Therapy & Treatment\nIdeas for assignments",
     "crumbs": [
-      "Home"
+      "Course Information",
+      "Schedule"
     ]
   }
 ]
