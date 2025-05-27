@@ -2,20 +2,20 @@
   {
     "objectID": "course-overview.html",
     "href": "course-overview.html",
-    "title": "Course overview",
+    "title": "Course Overview",
     "section": "",
-    "text": "This is the homepage for STA 101 - Data Analysis and Statistical Inference taught by Dr. Mine Çetinkaya-Rundel in Fall 2023 at Duke University. All course materials will be posted on this site.\nYou can find the course syllabus here and the course schedule here.",
+    "text": "This is the homepage for PSYC101 - Introduction to Psychology taught by Dr. Dustin Haraden in Summer 2025 at Rochester Institute of Technology. All course materials will be posted on this site.\nYou can find the course syllabus here and the course schedule here.",
     "crumbs": [
       "Course Information",
       "Overview"
     ]
   },
   {
-    "objectID": "course-overview.html#class-meetings",
-    "href": "course-overview.html#class-meetings",
-    "title": "Course overview",
-    "section": "Class meetings",
-    "text": "Class meetings\n\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\nInstructor / Lab leader\n\n\n\n\nLectures\nGross Hall 103\nMon & Wed 1:25 - 2:40 pm\nMine\n\n\nLab 1\nPerkins LINK 087 (Classroom 3)\nFri 8:30 - 9:45 am\nShuo\n\n\nLab 2\nPerkins LINK 087 (Classroom 3)\nFri 10:05 - 11:20 am\nSylvia\n\n\nLab 3\nPerkins LINK 087 (Classroom 3)\nFri 11:45 am - 1:00 pm\nJohn\n\n\nLab 4\nPerkins LINK 087 (Classroom 3)\nFri 1:25 - 2:40 pm\nChris",
+    "objectID": "course-overview.html#class-structure",
+    "href": "course-overview.html#class-structure",
+    "title": "Course Overview",
+    "section": "Class Structure",
+    "text": "Class Structure\nThis course will be accelerated, but will also be self-paced (i.e., asynchronous). There will be set deadlines for various projects/assignments, but you are free to structure your time otherwise. There will be 6 total units that cover a brief introduction into various areas of psychology. Each topic will typically consist of:\n\nBrief Lectures\nReadings\nAssignment\nContent Quiz\n\nThere will not be a final exam, but there will be a final project that will be due at the end of the semester.",
     "crumbs": [
       "Course Information",
       "Overview"
@@ -24,7 +24,7 @@
   {
     "objectID": "course-overview.html#license",
     "href": "course-overview.html#license",
-    "title": "Course overview",
+    "title": "Course Overview",
     "section": "License",
     "text": "License\n\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license.",
     "crumbs": [
@@ -33,25 +33,14 @@
     ]
   },
   {
-    "objectID": "assignment/assignment-1.html",
-    "href": "assignment/assignment-1.html",
-    "title": "Assignment 1",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PSYC 101: Introduction to Psychology",
     "section": "",
-    "text": "Assignments are posted in myCourses\nThe deliverable for this project (what you will turn in) is a written report. See below for more details.\n\nDescription\nFor this project you will create a linear model (of your choosing) to predict newborn birth weights (or some transformation of the variable) using a sample of observations from 2020 US birth data originally sourced from the Centers for Disease Control (CDC).\n\n\n\n\n\n\nImportant\n\n\n\nAll team members should be comfortable describing all aspects of the project and understanding all code.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html",
-    "href": "course-syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Intro to Psychology (Online, 6-Week Asynchronous)\n\nCourse Overview\nThis accelerated 6-week asynchronous course provides an introduction to the science of psychology, covering major theories, methods, and applications across biological, cognitive, emotional, developmental, and social domains. Emphasis is on active learning, self-reflection, and real-world application.\n\n\nCourse Objectives\nBy the end of this course, students will be able to:\n\nIdentify key concepts and theories across major areas of psychology\nApply psychological principles to everyday behavior and mental processes\nCritically evaluate psychological research and media\nReflect on their own development, thoughts, and emotions\n\n\n\n\nRequired Materials\n\nOpenStax Psychology (free online textbook)\nSupplemental videos, podcasts, and articles (linked in LMS)\n\n\n\n\nWeekly Schedule & Topics\nWeek 1: Foundations Topics: Introduction to Psychology, Research Methods, Biopsychology Assignments:\n\nSyllabus & Academic Integrity Quiz (Auto-graded)\nFlipgrid Intro Video (2-minute intro)\nQuiz 1: Brain & Methods (Auto-graded)\n\nWeek 2: Experience & Awareness Topics: States of Consciousness, Sensation & Perception Assignments:\n\nSleep Journal (3 days + reflection)\nQuiz 2: Sensation & Sleep (Auto-graded)\n\nWeek 3: Learning & Memory Topics: Classical & Operant Conditioning, Memory Systems Assignments:\n\nMini-Experiment Reflection (e.g., shape your behavior with reinforcement)\nMemory Infographic or Concept Map\nQuiz 3: Learning & Memory\n\nWeek 4: Cognition & Development Topics: Thinking, Language & Intelligence, Emotion & Motivation, Development Assignments:\n\nDevelopment in the Media: Short reflection paper (e.g., analyze a movie or show)\nQuiz 4: Cognitive & Developmental Psychology\n\nWeek 5: Personality & Social Behavior Topics: Personality Theories, Social Influence, Group Behavior Assignments:\n\nPersonality Test Reflection (Myers-Briggs, Big Five – with disclaimers)\nDiscussion Post: Conformity or Obedience (respond to a prompt + 1 peer reply)\nQuiz 5: Personality & Social Psych\n\nWeek 6: Psychological Health Topics: Psychological Disorders, Therapy & Treatment Assignments:\n\nCase Study: Choose a disorder, design a brief treatment plan (1 page)\nFinal Project Due: Create a PSA, podcast, short paper, or infographic on a psych topic\nQuiz 6: Disorders & Therapy\n\n\n\n\nGrading Breakdown\n\n\n\n\n\n\n\n\nAssignment Type\nPoints\n% of Grade\n\n\n\n\nWeekly Quizzes (6)\n60\n30%\n\n\nWeekly Activities (Journals, Maps, Reflections)\n60\n30%\n\n\nDiscussions (2)\n20\n10%\n\n\nFinal Project\n40\n20%\n\n\nIntro Video & Syllabus Quiz\n20\n10%\n\n\nTotal\n200\n100%\n\n\n\n\n\n\nCourse Policies\n\nLate Work: 3-day grace period with no penalty. Beyond that, contact me.\nAcademic Integrity: Follow RIT’s policies. Plagiarism = zero credit.\nCommunication: Weekly announcements posted; email replies within 48 hours.\n\n\n\n\nFinal Project Options (Choose One)\n\nPodcast Episode (5–7 minutes): Explain a psychological concept with examples.\nInfographic: Visually explain a major topic (e.g., stages of sleep, types of memory).\nShort Paper (2–3 pages): Analyze a psychological issue or concept.\nPublic Service Announcement: Educate others on a disorder or mental health topic.\n\nRubrics provided in LMS.\n\nLet’s make psychology meaningful, creative, and relevant to your life.",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester.\nNote that this schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nPrepare\nSlides\nAE\nLabs\nHW\nExam\nProject\n\n\n\n\n\nMon, June 30\n\n📖\n🖥️\n📋\n💻\n✍️\n✅\n📂\n\n\n\nMon, July 7\n\n\n\n\n\n\n\n\n\n\n\nMon, July 14\n\n\n\n\n\n\n\n\n\n\n\nMon, July 21\n\n\n\n\n\n\n\n\n\n\n\nMon, July 28\n\n\n\n\n\n\n\n\n\n\n\nMon, Aug 4\n\n\n\n\n\n\n\n\n\n\n\nWed, Aug 6\nLAST DAY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTopics to include: 1. Psychology as a Science 2. Biopsychology (Neuroscience & Behavior) 3. States of Consciousness - Sensation & Perception 4. Learning & Memory 5. Thinking, Language & Intelligence 6. Emotion & Motivation 7. Development 8. Personality 9. Social Psychology 10. Psychological Disorders 11. Therapy & Treatment\nIdeas for assignments",
     "crumbs": [
       "Course Information",
-      "Syllabus"
+      "Schedule"
     ]
   },
   {
@@ -66,14 +55,36 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PSYC 101: Introduction to Psychology",
+    "objectID": "course-syllabus.html",
+    "href": "course-syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester.\nNote that this schedule will be updated as the semester progresses, with all changes documented here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nPrepare\nSlides\nAE\nLabs\nHW\nExam\nProject\n\n\n\n\n\nMon, June 30\n\n📖\n🖥️\n📋\n💻\n✍️\n✅\n📂\n\n\n\nMon, July 7\n\n\n\n\n\n\n\n\n\n\n\nMon, July 14\n\n\n\n\n\n\n\n\n\n\n\nMon, July 21\n\n\n\n\n\n\n\n\n\n\n\nMon, July 28\n\n\n\n\n\n\n\n\n\n\n\nMon, Aug 4\n\n\n\n\n\n\n\n\n\n\n\nWed, Aug 6\nLAST DAY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTopics to include: 1. Psychology as a Science 2. Biopsychology (Neuroscience & Behavior) 3. States of Consciousness - Sensation & Perception 4. Learning & Memory 5. Thinking, Language & Intelligence 6. Emotion & Motivation 7. Development 8. Personality 9. Social Psychology 10. Psychological Disorders 11. Therapy & Treatment\nIdeas for assignments",
+    "text": "Professor\nDustin Haraden, PhD\n\n\nEmail/Office\ndxhgsh@rit.edu; Eastman Hall - 3378\n\n\nOffice Hours\nBy Appointment\n\n\nClass Times\nAsynchronous\n\n\n\n\n\nThis course offers a broad introduction to the field of Psychology, covering various sub-disciplines and emphasizing the scientific study of behavior and cognition. Students will gain a solid understanding of the scientific process, major psychological theories, and the correct usage of psychological terminology. The curriculum fosters critical evaluation skills for examining psychological research findings and highlights practical applications of psychological concepts in daily life. Emphasizing contemporary insights, the course focuses on the scientific method in measuring human behavior, with a student-centric approach that encourages active engagement and self-knowledge.\n\n\n\n\nTextbook: We will an open source (this means free) textbook throughout the semester. The link to the textbook is included below. A PDF version of the text is uploaded to myCourses.  \nSpielman, R. M., Jenkins, W., & Lovett, M. (2020). Psychology 2e. https://openstax.org/details/books/psychology-2e\nOther Required Readings: All additional readings (if necessary) will be posted to the course website.\n\n\n\n\nNote: This is subject to change. Students will be notified immediately of any changes or updates.\nBelow you will find a schedule for the semester, with a rough outline of dates for each of the units. These dates are guidelines. For specific due dates, please refer to myCourses and/or the schedule page.\n\n\n\nRead: OpenStax Ch. 1, 2 & 3 (Psychological Research, Biopsychology)\nWatch:\n\nIntroductory lecture\nWhat is Psychology Research?\nBiopsychology\n\nAssignments:\n\nIntroduction Video\nSyllabus Quiz - Content Quiz 1\n\n\n\n\n\n\nRead: OpenStax Ch. 4 & 5 (Consciousness, Sensation/Perception)\nWatch:\n\nSleep & Circadian Rhythms\nSensation/Perception\n\nAssignments:\n\nContent Quiz 2\nSleep Journal (3 day minimum + Reflection)\nDiscussion: Altered States or Illusions????\n\n\n\n\n\n\nRead: OpenStax Ch. 6, 7, 8 (Learning, Memory, Cognition)\nWatch:\n\nClassical Conditioning vs. Operant Conditioning\nMemory\n\nAssignments:\n\nContent Quiz 3\nMini-Experiment Reflection (e.g., shape your behavior with reinforcement)\n\n\n\n\n\n\nRead: OpenStax Ch. 9 & 10 (Emotion, Motivation, Development)\nWatch:\n\nEmotions/Motivation\nDevelopment\n\nAssignments:\n\nContent Quiz 4\nDevelopment in the Media: Short reflection paper (e.g., analyze a movie or show)\n\n\n\n\n\n\nRead: OpenStax Ch. 11 & 12 (Personality, Social Psychology)\nWatch:\n\nPersonality - Classification\n\nAssignments:\n\nContent Quiz 5\nPersonality Test Drive\n\n\n\n\n\n\nRead: OpenStax Ch. 15 & 16 (Psych Disorders, Therapy & Treatment) + science vs. pseudoscience resources\nWatch:\n\nPsych Disorders\nTherapy\n\nAssignments:\n\nContent Quiz 6\n\n\n\n\n\n\nPodcast Episode (5–7 minutes): Explain a psychological concept with examples.\nInfographic: Visually explain a major topic (e.g., stages of sleep, types of memory).\nShort Paper (2 pages): Analyze a psychological issue or concept.\nPublic Service Announcement: Educate others on a disorder or mental health topic.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssignment Type\nPoints\n% of Grade\n\n\n\n\nWeekly Quizzes (6)\n60\n30%\n\n\nWeekly Activities (Journals, Maps, Reflections)\n60\n30%\n\n\nDiscussions (2)\n20\n10%\n\n\nFinal Project\n40\n20%\n\n\nIntro Video & Syllabus Quiz\n20\n10%\n\n\nTotal\n200\n100%\n\n\n\n\n\n\n\n\nLate Work: 3-day grace period with no penalty. Beyond that, contact me.\nAcademic Integrity: Follow RIT’s policies. Plagiarism = zero credit.\nCommunication: Weekly announcements posted; email replies within 48 hours.\n\n\n\n\n\n\nPodcast Episode (5–7 minutes): Explain a psychological concept with examples.\nInfographic: Visually explain a major topic (e.g., stages of sleep, types of memory).\nShort Paper (2–3 pages): Analyze a psychological issue or concept.\nPublic Service Announcement: Educate others on a disorder or mental health topic.\n\nRubrics provided in LMS.\n\nLet’s make psychology meaningful, creative, and relevant to your life.",
     "crumbs": [
       "Course Information",
-      "Schedule"
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "course-syllabus.html#intro-to-psychology-online-6-week-asynchronous",
+    "href": "course-syllabus.html#intro-to-psychology-online-6-week-asynchronous",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Professor\nDustin Haraden, PhD\n\n\nEmail/Office\ndxhgsh@rit.edu; Eastman Hall - 3378\n\n\nOffice Hours\nBy Appointment\n\n\nClass Times\nAsynchronous\n\n\n\n\n\nThis course offers a broad introduction to the field of Psychology, covering various sub-disciplines and emphasizing the scientific study of behavior and cognition. Students will gain a solid understanding of the scientific process, major psychological theories, and the correct usage of psychological terminology. The curriculum fosters critical evaluation skills for examining psychological research findings and highlights practical applications of psychological concepts in daily life. Emphasizing contemporary insights, the course focuses on the scientific method in measuring human behavior, with a student-centric approach that encourages active engagement and self-knowledge.\n\n\n\n\nTextbook: We will an open source (this means free) textbook throughout the semester. The link to the textbook is included below. A PDF version of the text is uploaded to myCourses.  \nSpielman, R. M., Jenkins, W., & Lovett, M. (2020). Psychology 2e. https://openstax.org/details/books/psychology-2e\nOther Required Readings: All additional readings (if necessary) will be posted to the course website.\n\n\n\n\nNote: This is subject to change. Students will be notified immediately of any changes or updates.\nBelow you will find a schedule for the semester, with a rough outline of dates for each of the units. These dates are guidelines. For specific due dates, please refer to myCourses and/or the schedule page.\n\n\n\nRead: OpenStax Ch. 1, 2 & 3 (Psychological Research, Biopsychology)\nWatch:\n\nIntroductory lecture\nWhat is Psychology Research?\nBiopsychology\n\nAssignments:\n\nIntroduction Video\nSyllabus Quiz - Content Quiz 1\n\n\n\n\n\n\nRead: OpenStax Ch. 4 & 5 (Consciousness, Sensation/Perception)\nWatch:\n\nSleep & Circadian Rhythms\nSensation/Perception\n\nAssignments:\n\nContent Quiz 2\nSleep Journal (3 day minimum + Reflection)\nDiscussion: Altered States or Illusions????\n\n\n\n\n\n\nRead: OpenStax Ch. 6, 7, 8 (Learning, Memory, Cognition)\nWatch:\n\nClassical Conditioning vs. Operant Conditioning\nMemory\n\nAssignments:\n\nContent Quiz 3\nMini-Experiment Reflection (e.g., shape your behavior with reinforcement)\n\n\n\n\n\n\nRead: OpenStax Ch. 9 & 10 (Emotion, Motivation, Development)\nWatch:\n\nEmotions/Motivation\nDevelopment\n\nAssignments:\n\nContent Quiz 4\nDevelopment in the Media: Short reflection paper (e.g., analyze a movie or show)\n\n\n\n\n\n\nRead: OpenStax Ch. 11 & 12 (Personality, Social Psychology)\nWatch:\n\nPersonality - Classification\n\nAssignments:\n\nContent Quiz 5\nPersonality Test Drive\n\n\n\n\n\n\nRead: OpenStax Ch. 15 & 16 (Psych Disorders, Therapy & Treatment) + science vs. pseudoscience resources\nWatch:\n\nPsych Disorders\nTherapy\n\nAssignments:\n\nContent Quiz 6\n\n\n\n\n\n\nPodcast Episode (5–7 minutes): Explain a psychological concept with examples.\nInfographic: Visually explain a major topic (e.g., stages of sleep, types of memory).\nShort Paper (2 pages): Analyze a psychological issue or concept.\nPublic Service Announcement: Educate others on a disorder or mental health topic.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssignment Type\nPoints\n% of Grade\n\n\n\n\nWeekly Quizzes (6)\n60\n30%\n\n\nWeekly Activities (Journals, Maps, Reflections)\n60\n30%\n\n\nDiscussions (2)\n20\n10%\n\n\nFinal Project\n40\n20%\n\n\nIntro Video & Syllabus Quiz\n20\n10%\n\n\nTotal\n200\n100%\n\n\n\n\n\n\n\n\nLate Work: 3-day grace period with no penalty. Beyond that, contact me.\nAcademic Integrity: Follow RIT’s policies. Plagiarism = zero credit.\nCommunication: Weekly announcements posted; email replies within 48 hours.\n\n\n\n\n\n\nPodcast Episode (5–7 minutes): Explain a psychological concept with examples.\nInfographic: Visually explain a major topic (e.g., stages of sleep, types of memory).\nShort Paper (2–3 pages): Analyze a psychological issue or concept.\nPublic Service Announcement: Educate others on a disorder or mental health topic.\n\nRubrics provided in LMS.\n\nLet’s make psychology meaningful, creative, and relevant to your life.",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "assignment/assignment-1.html",
+    "href": "assignment/assignment-1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Assignments are posted in myCourses\nThe deliverable for this project (what you will turn in) is a written report. See below for more details.\n\nDescription\nFor this project you will create a linear model (of your choosing) to predict newborn birth weights (or some transformation of the variable) using a sample of observations from 2020 US birth data originally sourced from the Centers for Disease Control (CDC).\n\n\n\n\n\n\nImportant\n\n\n\nAll team members should be comfortable describing all aspects of the project and understanding all code.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
     ]
   }
 ]
