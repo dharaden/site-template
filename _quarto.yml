@@ -1,0 +1,89 @@
+project: 
+  type: website
+  
+params:
+  assign_points: 35  # Points to be consistent across all assignments
+
+website: 
+  page-navigation: true
+  title: "PSYC 101 - Summer 2025" 
+  site-url: "https://dharaden.github.io/psyc101-sum25/"
+  
+  repo-url: https://github.com/dharaden/psyc101-sum25 
+  repo-actions: [issue]
+  
+  open-graph: true
+    
+  sidebar:
+    background: "#798b93"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    
+    tools: 
+      - icon: file-play
+        href: https://youtube.com
+        text: "Lecture Videos"
+      - icon: person-fill
+        text: "myCourses"
+        menu: 
+          - text: Assignments
+            url: https://mycourses.rit.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=1155274&isprv=0
+          - text: Grades
+            url: https://mycourses.rit.edu/d2l/lms/grades/my_grades/main.d2l?ou=1155274
+            
+
+    style: "docked"
+    search: true
+    collapse-level: 3
+    
+    
+    contents:
+      - section: "Course Information"
+        contents:
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          - href: index.qmd
+            text: Schedule
+          - href: course-links.qmd
+            text: Useful links
+      - section: "Assignments"
+        contents:
+          - href: assignment/assignment-1.qmd
+            text: "1 Intro Video"
+          - href: assignment/assignment-2.qmd
+            text: "2 Sleep Tracking"
+          - href: assignment/assignment-3.qmd
+            text: "3 Mini-Experiment"
+          - href: assignment/assignment-4.qmd
+            text: "4 Development in Media"
+          - href: assignment/assignment-5.qmd
+            text: "5 Personality Test Drive"
+          - href: assignment/final-project.qmd
+            text: "Final Project"
+      - href: lectures.qmd
+        text: "Lecture Slides"
+        
+
+  page-footer:
+      right: "This page is built with ☕ and [Quarto](https://quarto.org/)."
+      left: "&copy; CC-By Dustin Haraden, 2025"
+      background: "#5d6d74"
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/sta101.scss]
+      dark: [cosmo, style/sta101.scss, style/dark.scss]
+    linkcolor: "#798b93"
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+
+execute:
+  freeze: auto
+
+editor: visual
