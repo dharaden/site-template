@@ -12,7 +12,7 @@ There should be 3 different branches
 3. github-action
 
 Remember that the name of the repository will be your pages URL
-e.g. dharaden.github.io/site-template
+e.g. https://dharaden.github.io/site-template
 
 ## After Creating your own repository
 
@@ -30,6 +30,14 @@ This should already be set up and your site will likely have already been publis
     - The branch selected is "gh-pages" and the "/(root)" folder
 
 This will use GitHub Actions to basically create an R environment and render all of your code to create the appropriate files for publishing the website.  
+
+### Step 3: Open in R-Studio
+Open the project in R-Studio. You will see that `renv` will already try to work and you will get the message: 
+- None of the packages recorded in the lockfile are currently installed.
+- Use `renv::restore()` to restore the project library."
+The next step will be to run `renv::restore()` in your R console. This will check to see what libraries are in this repository that you do not currently have on your machine and will ask you to install them. 
+
+You will only have to restore the environment once when opening it on a new computer. Review the documents for `renv` for more info: https://rstudio.github.io/renv/articles/renv.html
 
 # Using the template
 
