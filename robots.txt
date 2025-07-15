@@ -1,1 +1,1 @@
-Sitemap: https://dharaden.github.io/psyc101-sum25/sitemap.xml
+Sitemap: https://dharaden.github.io/site-template/sitemap.xml
