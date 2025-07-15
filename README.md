@@ -48,3 +48,18 @@ Whenever you need to install a new package to use on your site, be sure to take 
 
 ## Website Structure
 Each page on your website can be represented by different QMD files. 
+
+The orgainzation of the file structure for your website will be found in the `_quarto.yml` file. This page will open in a text editor and will allow you to edit the title, logo, structure and all properties of the wesbite.
+
+To re-organize the order of the website, you will navigate to `contents:` in the `_quarto.yml` file. Here you will be able to edit the name of the link and then which QMD file to direct it to. These use relative file paths with the parent folder being where the README.md file is. 
+
+### Home Page
+This will be the `index` file. Update to include any information that you may need on the landing page of your site. 
+
+### Other pages and sub-pages
+The current setup is an example of various pieces of content from tables to sub-pages. Please edit to fit your needs. 
+
+# Usefule Info
+I always found the best way to update things is through copying what other smart people have been doing. One of those people is Mine Çetinkaya-Rundel. She is a wizard when it comes to R and anything data. She has all of her teaching websites here (https://mine-cr.com/teaching/) that has links to all the github repositories. The current template is an update to what she had for one of her courses. This is one of my favorites right now (https://github.com/sta210-s22/website). 
+
+I have also pulled info from OpenScapes (https://openscapes.github.io/quarto-website-tutorial/). This can be a good introduction just to get familiar with the flow of things. 

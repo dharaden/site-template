@@ -1,54 +1,7 @@
 ---
-title: "PSYC 101: Introduction to Psychology"
-tbl-colwidths: [2,18,8,15,10,10]
+title: "Template Home"
 ---
 
-This page contains an outline of the topics, content, and assignments for the semester.
+# Welcome
 
-Each assignment/quiz has a corresponding due date. All times are at 11:59pm on the set date unless otherwise noted.
-
-::: column-screen-inset-right
-+------+----------------------------------------+--------------+---------------------------------+----------------------------------------------------+------------------+
-| Unit | Topics                                 | Readings     | Lectures                        | Assignments                                        | Quiz             |
-+:====:+========================================+:============:+:===============================:+:==================================================:+:================:+
-| 1    | Psychological Research & Biopsychology | Ch. 1, 2 & 3 | What is Psychological Research? | [Introduction Video](/assignment/assignment-1)     | Syllabus Quiz    |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              | Biopsychology                   | **Due 7/11**                                       | Content Quiz 1   |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              |                                 |                                                    | **Due 7/6**      |
-+------+----------------------------------------+--------------+---------------------------------+----------------------------------------------------+------------------+
-| 2    | Consciousness & Sensation/Perception   | Ch. 4 & 5    | Sleep & Circadian Rhythms       | [Sleep Journal](/assignment/assignment-2)          | Content Quiz 2   |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              | Sensation & Perception          | **Due 7/13**                                       | **Due 7/11**     |
-+------+----------------------------------------+--------------+---------------------------------+----------------------------------------------------+------------------+
-| 3    | Learning, Memory, Cognition            | Ch. 6, 7, 8  | Conditioning                    | [Mini-Experiment](/assignment/assignment-3)        | Content Quiz 3   |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              | Memory                          | **Due 7/20**                                       | **Due 7/18**     |
-+------+----------------------------------------+--------------+---------------------------------+----------------------------------------------------+------------------+
-| 4    | Emotion, Motivation, Development       | Ch. 9 & 10   | Emotions & Motivation           | [Development in Media](/assignment/assignment-4)   | Content Quiz 4   |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              | Puberty                         | **Due 7/27**                                       | Discussion Posts |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              |                                 |                                                    | **Due 7/25**     |
-+------+----------------------------------------+--------------+---------------------------------+----------------------------------------------------+------------------+
-| 5    | Personality, Social Psychology         | Ch. 11 & 12  | Classification - Personality    | [Personality Test Drive](/assignment/assignment-5) | Content Quiz 5   |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              |                                 | **Due 8/3**                                        | **Due 8/1**      |
-+------+----------------------------------------+--------------+---------------------------------+----------------------------------------------------+------------------+
-| 6    | Psych Disorders, Therapy & Treatment   | Ch. 15 & 16  | Psych Disorders                 |                                                    | Content Quiz 6   |
-|      |                                        |              |                                 |                                                    |                  |
-|      |                                        |              | Therapy                         |                                                    | **Due 8/6**      |
-+------+----------------------------------------+--------------+---------------------------------+----------------------------------------------------+------------------+
-
-[**Discussion Post & Reply**]{.underline}: Due by July 25th \@ 11:59pm
-
-[**Final Project**](/assignment/final-project)**: Due August 10th \@ 11:59pm**
-:::
-
-```{r echo = FALSE}
-knitr::knit_exit()
-```
-
-|      |      |       | Prepare | Slides | AE  |  Labs  | HW  | Exam | Project |
-|------|------|-------|:-------:|:------:|:---:|:------:|:---:|:----:|:-------:|
-| Week | Date | Topic |   📖    |   🖥️   | 📋  | [💻]() | ✍️  |  ✅  |   📂    |
+Here is where your page's home page will be.

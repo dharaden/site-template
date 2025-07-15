@@ -6,10 +6,10 @@ params:
 
 website: 
   page-navigation: true
-  title: "PSYC 101 - Summer 2025" 
-  site-url: "https://dharaden.github.io/psyc101-sum25/"
+  title: "Website Template" 
+  site-url: "https://dharaden.github.io/site-template"
   
-  repo-url: https://github.com/dharaden/psyc101-sum25 
+  repo-url: https://github.com/dharaden/site-template 
   repo-actions: [issue]
   
   open-graph: true
@@ -23,14 +23,14 @@ website:
     tools: 
       - icon: file-play
         href: https://youtube.com
-        text: "Lecture Videos"
+        text: "Videos"
       - icon: person-fill
         text: "myCourses"
         menu: 
           - text: Assignments
-            url: https://mycourses.rit.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=1155274&isprv=0
+            url: https://rit.edu
           - text: Grades
-            url: https://mycourses.rit.edu/d2l/lms/grades/my_grades/main.d2l?ou=1155274
+            url: https://rit.edu
             
 
     style: "docked"
